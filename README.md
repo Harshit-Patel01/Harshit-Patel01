@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshit Singh Patel
 - 👀 I’m a passionate software developer with a keen interest in web development, open-source projects, and learning new technologies. I enjoy solving complex problems and collaborating with the community to create impactful software.
-- 🌱 I’m currently learning Git, GitHub, and have a hands on Python, C, C++, HTML, CSS, JavaScript
+- 🌱 I’m currently learning CI/CD, Docker, and building MERN Stack applications, and have a hands on Python, C, C++, HTML, CSS, JavaScript, Git, GitHub React.
 - 💞️ I'm always open to collaborate on interesting projects. Feel free to reach out if you have an idea or need help with a project
 - 📫 Reach me at https://www.linkedin.com/in/harshit-patel01/
 - Thanks for visiting my profile! Have a great day! 😊
