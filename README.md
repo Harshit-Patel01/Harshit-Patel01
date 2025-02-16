@@ -1,10 +1,44 @@
-- 👋 Hi, I’m @Harshit Singh Patel
-- 👀 I’m a passionate software developer with a keen interest in web development, open-source projects, and learning new technologies. I enjoy solving complex problems and collaborating with the community to create impactful software.
-- 🌱 I’m currently learning CI/CD, Docker, and building MERN Stack applications, and have a hands on Python, C, C++, HTML, CSS, JavaScript, Git, GitHub React.
-- 💞️ I'm always open to collaborate on interesting projects. Feel free to reach out if you have an idea or need help with a project
-- 📫 Reach me at https://www.linkedin.com/in/harshit-patel01/
-- Thanks for visiting my profile! Have a great day! 😊
-<!---
-Harshit-Patel01/Harshit-Patel01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Profile Header -->
+<div align="center">
+  <h1>Hello, I'm Harshit Singh Patel 👋</h1>
+  <p>Welcome to my GitHub profile! Here you'll find repositories related to my projects, contributions, and experiments.</p>
+  <img src="https://github.com/Harshit-Patel01.png" alt="Profile Image" width="150" height="150" style="border-radius: 50%;" />
+</div>
+
+
+<!-- Social Links -->
+### Connect with me:
+<p align="center">
+  <a href="https://linkedin.com/in/harshit-patel01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.instagram.com/not_Harshit.Patel" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+  <a href="mailto:Harshit.Patel01@outlook.in"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge"/></a>
+</p>
+
+<!-- GitHub Stats -->
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-Patel01&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+</p>
+
+<!-- Most Used Languages -->
+### Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Patel01&langs_count=10&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<!-- GitHub Streak -->
+### GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Patel01&theme=radical" alt="GitHub Streak" />
+</p>
+
+<!-- Contribution Graph -->
+### My Contribution Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Harshit-Patel01&bg_color=ffffff&color=000000&line=6A4CFF&point=00CFFF&area=true" alt="Contribution Graph"/>
+</p>
+
+<!-- Footer -->
+<div align="center">
+  <p>Thanks for visiting my profile! Feel free to explore and connect with me!</p>
+</div>
