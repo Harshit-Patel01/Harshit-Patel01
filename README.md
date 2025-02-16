@@ -26,17 +26,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Patel01&langs_count=10&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- GitHub Streak -->
-### GitHub Streak
+
+<!-- GitHub Contributions -->
+### My Contributions
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Patel01&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshit-Patel01&theme=github" alt="GitHub Contributions" />
 </p>
 
-<!-- Contribution Graph -->
-### My Contribution Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Harshit-Patel01&bg_color=ffffff&color=000000&line=6A4CFF&point=00CFFF&area=true" alt="Contribution Graph"/>
-</p>
 
 <!-- Footer -->
 <div align="center">
