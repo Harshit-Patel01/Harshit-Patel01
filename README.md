@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Harshit-Patel01&icon=5&color=6" alt="Profile Views" height="40"/>
+  <img src="https://profile-counter.glitch.me/Harshit-Patel01/count.svg" alt="Profile Views" height="40" />
 </p>
 
 
