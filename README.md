@@ -1,7 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
   <h1>Hello, I'm Harshit Singh Patel 👋</h1>
-  <p>Welcome to my GitHub profile! Here you'll find repositories related to my projects, contributions, and experiments.</p>
   <img src="https://github.com/Harshit-Patel01.png" alt="Profile Image" width="150" height="150" style="border-radius: 50%;" />
 </div>
 
@@ -22,16 +21,6 @@ I'm Harshit Singh Patel, an Application Security Engineer based in India. I spec
 - 🔎 Passionate about identifying security flaws and providing actionable remediation strategies
 - 📚 Currently honing my skills in advanced reverse-engineering and exploit development
 - ⚡ Fun fact: I break things so you can build safely 🚀
-
----
-
-
-<details>
-  <summary><strong>📚 Detailed Skills</strong></summary>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,git,docker,linux,aws,html,css" />
-  </p>
-</details>
 
 ---
 
