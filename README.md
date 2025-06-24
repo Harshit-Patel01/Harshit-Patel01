@@ -61,12 +61,6 @@ I'm Harshit Singh Patel, an Application Security Engineer based in India. I spec
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Patel01&theme=radical&hide_border=true&border_radius=12" width="47%" />
 </p>
 
-<!-- Activity Graph -->
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-Patel01&theme=radical&area=true&hide_border=true" />
-</p>
-
 <!-- Most Used Languages -->
 ### Most Used Languages
 <p align="center">
