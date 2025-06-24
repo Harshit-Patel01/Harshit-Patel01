@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshit-Patel01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://visitcount.itsvg.in/api?id=Harshit-Patel01&icon=5&color=6" alt="Profile Views" height="40"/>
 </p>
 
 
@@ -41,13 +41,20 @@ I'm Harshit Singh Patel, an Application Security Engineer based in India. I spec
 </p>
 
 <!-- Most Used Languages -->
-### Most Used Languages
+### 💻 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Patel01&langs_count=10&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Patel01&langs_count=8&layout=donut-vertical&theme=dark&hide_border=true&border_radius=10" width="32%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Patel01&langs_count=6&theme=dark&hide_border=true&border_radius=10" width="38%" alt="Language Distribution" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshit-Patel01&theme=github_dark" width="25%" alt="Repos per Language" />
 </p>
 
 <!-- GitHub Contributions -->
 ### 🏅 My Contributions
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshit-Patel01&theme=github" alt="GitHub Contributions" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshit-Patel01&theme=github_dark" alt="GitHub Contributions" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-Patel01&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </p>
