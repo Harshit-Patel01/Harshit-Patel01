@@ -6,11 +6,24 @@
 </div>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=45&lines=Hey+there!+I%27m+Harshit+Singh+Patel;Full-stack+Developer+%7C+Tech+Enthusiast;Open+Source+Contributor;Lifelong+Learner+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harshit-Patel01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <!-- Personal Quote -->
 <blockquote align="center">"Strive not to be a success, but rather to be of value." – Albert Einstein</blockquote>
+
+---
+
+<!-- About Me -->
+### 👨‍💻 About Me
+- 🔭 I'm currently working on full-stack projects & data science experiments.
+- 🌱 I'm currently learning Next.js, TypeScript, and Cloud Native tools.
+- 💬 Ask me about Web development, Python, and Open Source.
+- ⚡ Fun fact: Coffee + Code = ☕💻
 
 ---
 
@@ -25,6 +38,13 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+
+<details>
+  <summary><strong>📚 Detailed Skills</strong></summary>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,git,docker,linux,aws,html,css" />
+  </p>
+</details>
 
 ---
 
@@ -45,6 +65,11 @@
   <a href="https://github.com/Harshit-Patel01/Project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit-Patel01&repo=Project2&theme=radical"/></a>
 </p>
 
+<!-- Footer -->
+<div align="center">
+  <p>Thanks for visiting my profile! Feel free to explore and connect with me!</p>
+</div>
+
 ---
 
 <!-- GitHub Trophies -->
@@ -53,9 +78,16 @@
 </p>
 
 <!-- GitHub Stats -->
-### GitHub Stats
+### 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-Patel01&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-Patel01&show_icons=true&theme=radical&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Patel01&theme=radical&hide_border=true&border_radius=12" width="47%" />
+</p>
+
+<!-- Activity Graph -->
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-Patel01&theme=radical&area=true&hide_border=true" />
 </p>
 
 <!-- Most Used Languages -->
@@ -65,12 +97,7 @@
 </p>
 
 <!-- GitHub Contributions -->
-### My Contributions
+### 🏅 My Contributions
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshit-Patel01&theme=github" alt="GitHub Contributions" />
 </p>
-
-<!-- Footer -->
-<div align="center">
-  <p>Thanks for visiting my profile! Feel free to explore and connect with me!</p>
-</div>
