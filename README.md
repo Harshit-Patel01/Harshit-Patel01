@@ -13,10 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=Harshit-Patel01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<!-- Personal Quote -->
-<blockquote align="center">"Strive not to be a success, but rather to be of value." – Albert Einstein</blockquote>
-
----
 
 <!-- About Me -->
 ### 👨‍💻 About Me
@@ -46,7 +42,6 @@ I'm Harshit Singh Patel, an Application Security Engineer based in India. I spec
   <a href="https://www.instagram.com/_Hars.hit_001" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
   <a href="mailto:Harshit.Patel01@outlook.in"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge"/></a>
 </p>
-
 
 
 <!-- GitHub Stats -->
