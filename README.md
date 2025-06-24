@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=45&lines=Hey+there!+I%27m+Harshit+Singh+Patel;Full-stack+Developer+%7C+Tech+Enthusiast;Open+Source+Contributor;Lifelong+Learner+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=45&lines=Application+Security+Engineer+%7C+Reverse+Engineering;Finding+Vulnerabilities+%26+Security+Flaws;Penetration+Testing+%7C+Secure+Code+Analysis;Securing+the+Digital+Future+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,24 +20,15 @@
 
 <!-- About Me -->
 ### 👨‍💻 About Me
-- 🔭 I'm currently working on full-stack projects & data science experiments.
-- 🌱 I'm currently learning Next.js, TypeScript, and Cloud Native tools.
-- 💬 Ask me about Web development, Python, and Open Source.
-- ⚡ Fun fact: Coffee + Code = ☕💻
+I'm Harshit Singh Patel, an Application Security Engineer based in India. I specialize in discovering vulnerabilities and loopholes in applications and systems before they can be exploited.
+
+- 🛠️ Expertise: Penetration testing, secure code analysis, reverse engineering
+- 🔎 Passionate about identifying security flaws and providing actionable remediation strategies
+- 📚 Currently honing my skills in advanced reverse-engineering and exploit development
+- ⚡ Fun fact: I break things so you can build safely 🚀
 
 ---
 
-<!-- Tech Stack -->
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
 
 <details>
   <summary><strong>📚 Detailed Skills</strong></summary>
@@ -56,21 +47,7 @@
   <a href="mailto:Harshit.Patel01@outlook.in"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge"/></a>
 </p>
 
----
 
-<!-- Featured Projects -->
-### 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/Harshit-Patel01/Project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit-Patel01&repo=Project1&theme=radical"/></a>
-  <a href="https://github.com/Harshit-Patel01/Project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit-Patel01&repo=Project2&theme=radical"/></a>
-</p>
-
-<!-- Footer -->
-<div align="center">
-  <p>Thanks for visiting my profile! Feel free to explore and connect with me!</p>
-</div>
-
----
 
 <!-- GitHub Trophies -->
 <p align="center">
