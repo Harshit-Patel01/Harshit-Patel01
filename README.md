@@ -49,11 +49,6 @@ I'm Harshit Singh Patel, an Application Security Engineer based in India. I spec
 
 
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshit-Patel01&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats & Streak
 <p align="center">
