@@ -5,24 +5,8 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=45&lines=Application+Security+Engineer+%7C+Reverse+Engineering;Finding+Vulnerabilities+%26+Security+Flaws;Penetration+Testing+%7C+Secure+Code+Analysis;Securing+the+Digital+Future+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://profile-counter.glitch.me/Harshit-Patel01/count.svg" alt="Profile Views" height="40" />
 </p>
-
-
-<!-- About Me -->
-### 👨‍💻 About Me
-I'm Harshit Singh Patel, an Application Security Engineer based in India. I specialize in discovering vulnerabilities and loopholes in applications and systems before they can be exploited.
-
-- 🛠️ Expertise: Penetration testing, secure code analysis, reverse engineering
-- 🔎 Passionate about identifying security flaws and providing actionable remediation strategies
-- 📚 Currently honing my skills in advanced reverse-engineering and exploit development
-- ⚡ Fun fact: I break things so you can build safely 🚀
-
----
 
 <!-- Social Links -->
 ### Connect with me:
