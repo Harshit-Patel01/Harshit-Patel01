@@ -1,12 +1,18 @@
 <!-- Header -->
 <div align="center">
   <h1>Hi, I'm Harshit Singh Patel 👋</h1>
-  <a href="https://linkedin.com/in/harshit-patel01"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.hael.in"><img src="https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:Harshit.Patel01@outlook.in"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/harshit-patel01"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.hael.in"><img src="https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="mailto:harshit.patel01@outlook.in"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
   <br/><br/>
-  <img src="https://profile-counter.glitch.me/Harshit-Patel01/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Harshit-Patel01&color=blue" alt="Profile Views" />
 </div>
+
+---
+
+<!-- About Me -->
+### About Me
+Passionate developer crafting innovative tools and automation systems. Excited to explore tech and contribute to open source. Let's build something great! 🚀
 
 ---
 
@@ -48,4 +54,11 @@
 ### 📊 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-Patel01&theme=react-dark&hide_border=true&area=true" width="98%" />
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  © 2025 GitHub, Inc.
 </div>
