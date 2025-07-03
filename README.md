@@ -1,57 +1,41 @@
 <!-- Header -->
 <div align="center">
   <h1>Hi, I'm Harshit Singh Patel 👋</h1>
-  <a href="https://linkedin.com/in/harshit-patel01"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://www.hael.in"><img src="https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <a href="mailto:harshit.patel01@outlook.in"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/harshit-singh-patel"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a> 
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white&style=flat-square" alt="Portfolio" /></a> 
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Harshit-Patel01&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Harshit-Patel01&color=brightgreen&style=flat-square" alt="Profile Views" />
 </div>
-
----
 
 <!-- About Me -->
-### About Me
-Passionate developer crafting innovative tools and automation systems. Excited to explore tech and contribute to open source. Let's build something great! 🚀
+## 🚀 About Me
+Building cool tools & automating the future. Cybersecurity enthusiast. Open-source lover. Let's code! ⚡
 
----
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,linux,azure,docker,aws" />
+</div>
+
+<!-- Focus Areas -->
+## 🔥 Focus Areas
+<div align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-%F0%9F%94%92%20Hacking%20Ethically-1f425f?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Automation-%F0%9F%A4%96%20AI%20Scripts-1f425f?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Open%20Source-%F0%9F%8C%90%20Contributing-1f425f?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/DevOps-%E2%98%81%20Exploring%20Azure%20&%20AWS-1f425f?style=flat-square" />
+</div>
 
 <!-- GitHub Stats -->
-### 🔥 GitHub Stats
+## 📊 My GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-Patel01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Patel01&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-Patel01&show_icons=true&theme=dracula&hide_border=true&border_radius=8&hide=stars,issues" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Patel01&theme=dracula&hide_border=true&border_radius=8" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-Patel01&theme=dracula&hide_border=true&area=true&hide_title=true" width="98%" />
 </div>
-
----
-
-<!-- Languages & Tools -->
-### 💻 Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,git,linux" />
-</div>
-
----
-
----
-
-<!-- Contributions -->
-### 🏆 GitHub Contributions
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshit-Patel01&theme=tokyonight" width="98%" />
-</div>
-
----
-
-<!-- Activity Graph -->
-### 📊 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-Patel01&theme=react-dark&hide_border=true&area=true" width="98%" />
-</div>
-
----
 
 <!-- Footer -->
 <div align="center">
-  © 2025 GitHub, Inc.
+  <sub>Built with 💻 & ☕ | © 2025 GitHub, Inc.</sub>
 </div>
