@@ -1,9 +1,8 @@
 <!-- Header -->
 <div align="center">
   <h1>Hi, I'm Harshit Singh Patel 👋</h1>
-  <img src="https://github.com/Harshit-Patel01.png" width="120" alt="Profile Image" style="border-radius: 50%;" />
-  <br/><br/>
   <a href="https://linkedin.com/in/harshit-patel01"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.hael.in"><img src="https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:Harshit.Patel01@outlook.in"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
   <br/><br/>
   <img src="https://profile-counter.glitch.me/Harshit-Patel01/count.svg" alt="Profile Views" />
@@ -21,9 +20,9 @@
 ---
 
 <!-- Languages & Tools -->
-### 💻 Languages & Tools
+### 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,nodejs,mysql,git,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,git,linux" />
 </div>
 
 ---
