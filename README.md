@@ -33,13 +33,6 @@ Passionate developer crafting innovative tools and automation systems. Excited t
 
 ---
 
-<!-- Most Used Languages -->
-### 📈 Language Usage
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Patel01&layout=donut&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshit-Patel01&theme=tokyonight" width="48%" />
-</div>
-
 ---
 
 <!-- Contributions -->
