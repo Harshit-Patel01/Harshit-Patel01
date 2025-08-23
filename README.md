@@ -2,8 +2,8 @@
 <div align="center">
   <h1>Hi, I'm Harshit Singh Patel 👋</h1>
   <a href="https://linkedin.com/in/harshit-singh-patel"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a> 
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white&style=flat-square" alt="Portfolio" /></a> 
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
+  <a href="https://hael.in"><img src="https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white&style=flat-square" alt="Portfolio" /></a> 
+  <a href="mailto:harshit.patel01@outlook.in"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Harshit-Patel01&color=brightgreen&style=flat-square" alt="Profile Views" />
 </div>
