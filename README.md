@@ -37,9 +37,9 @@
 class Harshit:
     def __init__(self):
         self.name       = "Harshit Singh Patel"
-        self.role       = "Developer & Cybersecurity Enthusiast"
-        self.portfolio  = "https://hael.in"
-        self.interests  = ["Ethical Hacking", "Automation", "DevOps", "Open Source"]
+        self.role       = "Aspiring Developer"
+        self.portfolio  = "https://www.hael.in"
+        self.interests  = ["Automation", "DevOps", "Open Source"]
         self.stack      = ["C++", "Python", "Linux", "Docker", "Azure", "AWS"]
         self.currently  = "Building cool tools & automating the future 🚀"
         self.fun_fact   = "I break things to understand how to build them better 🔓"
@@ -123,12 +123,13 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harshit-Patel01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&hide=stars,issues&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Patel01&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshit-Patel01&theme=tokyonight" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Harshit-Patel01&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Patel01&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshit-Patel01&theme=tokyonight" width="38%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harshit-Patel01&theme=tokyonight" width="38%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-Patel01&theme=tokyo-night&hide_border=true&area=true&hide_title=true" width="98%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshit-Patel01&theme=tokyonight" width="98%" />
 
 </div>
 
@@ -142,9 +143,8 @@ me.say_hi()
 
 - 🔭 **Working on:** Automation tools and security scripts
 - 🌱 **Exploring:** Advanced cloud security on Azure & AWS
-- 🛡️ **Sharpening:** Penetration testing & CTF skills
 - 🤝 **Open to:** Open-source collaborations and interesting projects
-- 💬 **Ask me about:** C++, Python, Linux, Cybersecurity, DevOps
+- 💬 **Ask me about:** C++, Python, Linux, DevOps
 
 ---
 
@@ -156,8 +156,8 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-singh-patel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-hael.in-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hael.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-patel01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hael.in-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.hael.in)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshit.patel01@outlook.in)
 
 </div>
