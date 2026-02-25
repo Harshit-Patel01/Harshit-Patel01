@@ -123,11 +123,11 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshit-Patel01&theme=tokyonight" width="48%" height="210px"/>
-<img src="https://streak-stats.demolab.com/?user=Harshit-Patel01&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshit-Patel01&theme=tokyonight" width="384px" height="226px"/>
+<img src="https://streak-stats.demolab.com/?user=Harshit-Patel01&theme=tokyonight&hide_border=true&border_radius=10" width="384px" height="226px"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshit-Patel01&theme=tokyonight" width="38%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harshit-Patel01&theme=tokyonight" width="38%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshit-Patel01&theme=tokyonight" width="384px" height="226px" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harshit-Patel01&theme=tokyonight" width="384px" height="226px" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshit-Patel01&theme=tokyonight" width="98%" />
 
