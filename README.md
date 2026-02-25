@@ -123,7 +123,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshit-Patel01&theme=tokyonight" width="48%" height="100px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshit-Patel01&theme=tokyonight" width="48%" height="210px"/>
 <img src="https://streak-stats.demolab.com/?user=Harshit-Patel01&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshit-Patel01&theme=tokyonight" width="38%" />
