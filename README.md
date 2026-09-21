@@ -38,7 +38,7 @@ class Harshit:
     def __init__(self):
         self.name       = "Harshit Singh Patel"
         self.role       = "Aspiring Developer"
-        self.portfolio  = "https://www.hael.in"
+        self.portfolio  = "https://www.applepiee.com"
         self.interests  = ["Automation", "DevOps", "Open Source"]
         self.stack      = ["C++", "Python", "Linux", "Docker", "Azure", "AWS"]
         self.currently  = "Building cool tools & automating the future 🚀"
@@ -157,7 +157,7 @@ me.say_hi()
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-patel01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-hael.in-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.hael.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-applepiee.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.applepiee.com)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshit.patel01@outlook.in)
 
 </div>
