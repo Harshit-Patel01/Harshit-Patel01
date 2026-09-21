@@ -18,7 +18,7 @@
 *Building cool tools · Automating the future · Hacking ethically* ⚡
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-singh-patel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hael.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.applepiee.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshit.patel01@outlook.in)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harshit-Patel01&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
